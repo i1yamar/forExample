@@ -39,13 +39,13 @@ html, body {
 .slick-arrow.slick-prev{
     margin-top: -10px;
     left: 1%;
-    background: url('img/prev.svg') 0 0 / 100% no-repeat;
+    background: url('../img/prev.svg') 0 0 / 100% no-repeat;
 }
 
 .slick-arrow.slick-next{
     right: 1%;
     margin-top: -10px;
-    background: url('img/next.svg') 0 0 / 100% no-repeat;
+    background: url('../img/next.svg') 0 0 / 100% no-repeat;
 }
 
 .slick-dots{
